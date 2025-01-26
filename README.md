@@ -2,9 +2,28 @@
 
 ## Info
 
-This is the learn content that I follow to when preparing interview for ChinaSoft
+This is the learning list that I follow to when preparing interview for ChinaSoft.
 
-I choose Python and C to be my preferred language
+### Job Required
+
+In this role, you will:
+- Provide 24x7x365 Service Management and Production Support for GCP Postgres/Rabit MQ/Cassendra/GCP Infra component in cloud tech stack. Distributed platform knowledge is an added advantage.
+- Work in day shift, night shift and regular timings as per the support roster on rotation basis. Support and shift duty will be there on weekends and public holidays.
+- Responsible for Capacity management & alerting, incident resolution, change order creation and execution, service recovery, root cause analysis, project implementation support, OS and Middleware HGMS violation activities, Disaster Recovery ExeCoordinate with GCP Project, development and infrastructure teams during incident resolution. Recover the service within the SLAs.
+- Create, review and improve Production Support documentation and procedures, troubleshooting guides, weekly reports summarizing Production performance.
+- The candidate is expected to quickly learn and support multiple products and applications across GCP & Distributed platforms.
+
+To be successful in this role, you should meet the following requirements:
+- Should have 8+ years of Production Support experience in Distributed technologies such as GCP Postgres/Rabit MQ/Cassendra/GCP Infra component in cloud technology.
+- Should have experience in supporting operational large-scale enterprise data solutions and applications using one or more of GCP data and analytics services and/or tech stack in combination with 3rd paties - Compute Engine, Cloud DataProc, Cloud
+- Should have experience with Open-source technologies and tools such as Github, Pyspark, Jenkins, Ansible.
+- Should have experience in Service Management activities such as Incident Management, Change Management and Problem Management.
+- Should have very good communication skills and be able to communicate with business and IT stakeholders effectively and efficiently.
+- Should be able to work independently in a cross-location and cross-cultural team.
+- Candidates with distributed tech stack working experience will be preferred.
+- Knowledge on Unix, Shell Scripting and PL/SQL will be an added adventage.
+
+I choose Python and C to be my preferred language.
 
 ## Projects & Works
 
