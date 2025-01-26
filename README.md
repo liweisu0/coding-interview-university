@@ -6,6 +6,16 @@ This is the learn content that I follow to when preparing interview for ChinaSof
 
 I choose Python and C to be my preferred language
 
+## Projects & Works
+
+- ### Linux
+    - [ ] LFS:
+        - [LFS Official Document](https://linuxfromscratch.org/lfs/view/stable/)
+        - [Build a LinuxFromScratch System](https://www.youtube.com/watch?v=IXA0GNTLf_Q&list=PLHh55M_Kq4OAPznDEcgnkQsbjgvG-QFBR)
+         
+    - [ ] Shell:
+        - [
+
 ## Data Structures
 
 - ### Arrays
