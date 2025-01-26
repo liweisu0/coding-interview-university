@@ -20,6 +20,16 @@ I choose Python and C to be my preferred language
         - [A Beginner’s Guide to Linux Kernel Development (LFD103)](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
          
 - ### SQL
+    - [ ] SQL roadmap:
+        - [SQL roadmap](https://roadmap.sh/sql)
+        - [PostgreSQL](https://roadmap.sh/postgresql-dba)
+    - [ ] Build one:
+        - [Build your own SQLite](https://app.codecrafters.io/courses/sqlite/overview)
+        - [Build your own Redis](https://app.codecrafters.io/courses/redis/overview)
+        - [Recipe App Using Node.js & PostgreSQL](https://www.youtube.com/watch?v=AFiqctkoVJ4&list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW)
+         
+- ### Cloud
+    - [ ] [AWS roadmap](https://roadmap.sh/aws)
     - [ ] 
 
 ## Data Structures
