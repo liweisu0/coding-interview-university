@@ -12,9 +12,15 @@ I choose Python and C to be my preferred language
     - [ ] LFS:
         - [LFS Official Document](https://linuxfromscratch.org/lfs/view/stable/)
         - [Build a LinuxFromScratch System](https://www.youtube.com/watch?v=IXA0GNTLf_Q&list=PLHh55M_Kq4OAPznDEcgnkQsbjgvG-QFBR)
-         
     - [ ] Shell:
-        - [
+        - [Build your own Shell](https://app.codecrafters.io/courses/shell/overview)
+        - [Write Your Own Shell](https://www.youtube.com/watch?v=cIBmeEpsMj0&list=PLxIRFba3rzLzxxZMMbrm_-mkI7mV9G0pj)
+    - [ ] Kernel:
+        - [How Does Linux Boot Process Work? ](https://www.youtube.com/watch?v=XpFsMB6FoOs)
+        - [A Beginner’s Guide to Linux Kernel Development (LFD103)](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
+         
+- ### SQL
+    - [ ] 
 
 ## Data Structures
 
@@ -180,10 +186,7 @@ I choose Python and C to be my preferred language
 Mock Interviews:
 - [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/#!/) - I used this and it helped me relax for the phone screen and on-site interview
 - [Pramp: Mock interviews from/with peers](https://www.pramp.com/) - a peer-to-peer model to practice interviews
-- [interviewing.io: Practice mock interview with senior engineers](https://interviewing.io) - anonymous algorithmic/systems design interviews with senior engineers from FAANG anonymously
-- [Meetapro: Mock interviews with top FAANG interviewers](https://meetapro.com/?utm_source=ciu) - an Airbnb-style mock interview/coaching platform.
-- [Hello Interview: Mock Interviews with Expert Coaches and AI](https://www.hellointerview.com/?utm_source=ciu) - interview directly with AI or with FAANG staff engineers and managers.
-- [Codemia: Practice system design problems with AI or community solutions and feedback](https://codemia.io/?utm_source=ciu) - Practice system design problems via AI practice tool. Share your solution with the community to get human feedback as well.
+- [interviewing.io: Practice mock interview with senior engineers](https://interviewing.io) - anonymous algorithmic/systems design
 
 ## Be thinking of for when the interview comes
 
@@ -191,6 +194,7 @@ Think of about 20 interview questions you'll get, along with the lines of the it
 Have a story, not just data, about something you accomplished.
 
 - Why do you want this job?
+- What's you main content of your last job?
 - What's a tough problem you've solved?
 - Biggest challenges faced?
 - Best/worst designs seen?
