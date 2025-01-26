@@ -23,7 +23,11 @@ To be successful in this role, you should meet the following requirements:
 - Candidates with distributed tech stack working experience will be preferred.
 - Knowledge on Unix, Shell Scripting and PL/SQL will be an added adventage.
 
-I choose Python and C to be my preferred language.
+### What I have to focus
+
+Cloud, Linux, SQL, Java, Websphere
+
+I choose Python and C to be my preferred interview language.
 
 ## Projects & Works
 
@@ -48,8 +52,18 @@ I choose Python and C to be my preferred language.
         - [Recipe App Using Node.js & PostgreSQL](https://www.youtube.com/watch?v=AFiqctkoVJ4&list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW)
          
 - ### Cloud
-    - [ ] [AWS roadmap](https://roadmap.sh/aws)
-    - [ ] 
+    - [ ] AWS & GCP
+        - [AWS roadmap](https://roadmap.sh/aws)
+        - [Cloud SQL for PostgreSQL documentation ](https://cloud.google.com/sql/docs/postgres/)
+        - [Cloud Architect Professional Certificate](https://www.coursera.org/programs/sobma/professional-certificates/gcp-cloud-architect?authProvider=bancolombia)
+    - [ ] RocketMQ
+        - [BlueNote](https://www.quanxiaoha.com/column/10351.html)
+    - [ ] Jenkins
+        - [Blog](https://www.quanxiaoha.com/column/10190.html)
+ 
+- ### Java
+    - [ ] [Bluenote](https://www.quanxiaoha.com/column/10247.html)
+    - [ ] [Jxai]()
 
 ## Data Structures
 
