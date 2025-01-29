@@ -6,13 +6,6 @@ This is the learning list that I follow to when preparing interview for ChinaSof
 
 ### Job Required
 
-In this role, you will:
-- Provide 24x7x365 Service Management and Production Support for GCP Postgres/Rabit MQ/Cassendra/GCP Infra component in cloud tech stack. Distributed platform knowledge is an added advantage.
-- Work in day shift, night shift and regular timings as per the support roster on rotation basis. Support and shift duty will be there on weekends and public holidays.
-- Responsible for Capacity management & alerting, incident resolution, change order creation and execution, service recovery, root cause analysis, project implementation support, OS and Middleware HGMS violation activities, Disaster Recovery ExeCoordinate with GCP Project, development and infrastructure teams during incident resolution. Recover the service within the SLAs.
-- Create, review and improve Production Support documentation and procedures, troubleshooting guides, weekly reports summarizing Production performance.
-- The candidate is expected to quickly learn and support multiple products and applications across GCP & Distributed platforms.
-
 To be successful in this role, you should meet the following requirements:
 - Should have 8+ years of Production Support experience in Distributed technologies such as GCP Postgres/Rabit MQ/Cassendra/GCP Infra component in cloud technology.
 - Should have experience in supporting operational large-scale enterprise data solutions and applications using one or more of GCP data and analytics services and/or tech stack in combination with 3rd paties - Compute Engine, Cloud DataProc, Cloud
@@ -32,34 +25,34 @@ I choose Python and C to be my preferred interview language.
 ## Projects & Works
 
 - ### Linux
-    - [ ] LFS:
-        - [LFS Official Document](https://linuxfromscratch.org/lfs/view/stable/)
-        - [Build a LinuxFromScratch System](https://www.youtube.com/watch?v=IXA0GNTLf_Q&list=PLHh55M_Kq4OAPznDEcgnkQsbjgvG-QFBR)
+    - [x] LFS:
+        - [x] [LFS Official Document](https://linuxfromscratch.org/lfs/view/stable/)
+        - [ ] [Build a LinuxFromScratch System](https://www.youtube.com/watch?v=IXA0GNTLf_Q&list=PLHh55M_Kq4OAPznDEcgnkQsbjgvG-QFBR)
     - [ ] Shell:
-        - [Build your own Shell](https://app.codecrafters.io/courses/shell/overview)
-        - [Write Your Own Shell](https://www.youtube.com/watch?v=cIBmeEpsMj0&list=PLxIRFba3rzLzxxZMMbrm_-mkI7mV9G0pj)
+        - [ ] [Build your own Shell](https://app.codecrafters.io/courses/shell/overview)
+        - [ ] [Write Your Own Shell](https://www.youtube.com/watch?v=cIBmeEpsMj0&list=PLxIRFba3rzLzxxZMMbrm_-mkI7mV9G0pj)
     - [ ] Kernel:
-        - [How Does Linux Boot Process Work? ](https://www.youtube.com/watch?v=XpFsMB6FoOs)
-        - [A Beginner’s Guide to Linux Kernel Development (LFD103)](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
+        - [ ] [How Does Linux Boot Process Work? ](https://www.youtube.com/watch?v=XpFsMB6FoOs)
+        - [ ] [A Beginner’s Guide to Linux Kernel Development (LFD103)](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
          
 - ### SQL
     - [ ] SQL roadmap:
-        - [SQL roadmap](https://roadmap.sh/sql)
-        - [PostgreSQL](https://roadmap.sh/postgresql-dba)
+        - [ ] [SQL roadmap](https://roadmap.sh/sql)
+        - [ ] [PostgreSQL](https://roadmap.sh/postgresql-dba)
     - [ ] Build one:
-        - [Build your own SQLite](https://app.codecrafters.io/courses/sqlite/overview)
-        - [Build your own Redis](https://app.codecrafters.io/courses/redis/overview)
-        - [Recipe App Using Node.js & PostgreSQL](https://www.youtube.com/watch?v=AFiqctkoVJ4&list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW)
+        - [ ] [Build your own SQLite](https://app.codecrafters.io/courses/sqlite/overview)
+        - [ ] [Build your own Redis](https://app.codecrafters.io/courses/redis/overview)
+        - [ ] [Recipe App Using Node.js & PostgreSQL](https://www.youtube.com/watch?v=AFiqctkoVJ4&list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW)
          
 - ### Cloud
     - [ ] AWS & GCP
-        - [AWS roadmap](https://roadmap.sh/aws)
-        - [Cloud SQL for PostgreSQL documentation ](https://cloud.google.com/sql/docs/postgres/)
-        - [Cloud Architect Professional Certificate](https://www.coursera.org/programs/sobma/professional-certificates/gcp-cloud-architect?authProvider=bancolombia)
+        - [ ] [AWS roadmap](https://roadmap.sh/aws)
+        - [ ] [Cloud SQL for PostgreSQL documentation ](https://cloud.google.com/sql/docs/postgres/)
+        - [ ] [Cloud Architect Professional Certificate](https://www.coursera.org/programs/sobma/professional-certificates/gcp-cloud-architect?authProvider=bancolombia)
     - [ ] RocketMQ
-        - [BlueNote](https://www.quanxiaoha.com/column/10351.html)
+        - [ ] [BlueNote](https://www.quanxiaoha.com/column/10351.html)
     - [ ] Jenkins
-        - [Blog](https://www.quanxiaoha.com/column/10190.html)
+        - [ ] [Blog](https://www.quanxiaoha.com/column/10190.html)
  
 - ### Java
     - [ ] [Bluenote](https://www.quanxiaoha.com/column/10247.html)
