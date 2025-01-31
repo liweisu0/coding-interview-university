@@ -26,18 +26,17 @@ I choose Python and C to be my preferred interview language.
 
 ## Projects & Works
 
-- ### Linux(2days)
+- ### Linux(1 days)
     - [x] LFS:
         - [x] [LFS Official Document](https://linuxfromscratch.org/lfs/view/stable/)
         - [ ] [Build a LinuxFromScratch System](https://www.youtube.com/watch?v=IXA0GNTLf_Q&list=PLHh55M_Kq4OAPznDEcgnkQsbjgvG-QFBR)
     - [ ] Shell:
         - [ ] [Build your own Shell](https://app.codecrafters.io/courses/shell/overview)
-        - [ ] [Write Your Own Shell](https://www.youtube.com/watch?v=cIBmeEpsMj0&list=PLxIRFba3rzLzxxZMMbrm_-mkI7mV9G0pj)
     - [ ] Kernel:
         - [ ] [How Does Linux Boot Process Work? ](https://www.youtube.com/watch?v=XpFsMB6FoOs)
         - [ ] [A Beginner’s Guide to Linux Kernel Development (LFD103)](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
          
-- ### SQL(2day)
+- ### SQL(1 day)
     - [ ] SQL roadmap:
         - [ ] [SQL roadmap](https://roadmap.sh/sql)
         - [ ] [PostgreSQL](https://roadmap.sh/postgresql-dba)
@@ -45,7 +44,7 @@ I choose Python and C to be my preferred interview language.
         - [ ] [Build your own SQLite](https://app.codecrafters.io/courses/sqlite/overview)
         - [ ] [Recipe App Using Node.js & PostgreSQL](https://www.youtube.com/watch?v=AFiqctkoVJ4&list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW)
          
-- ### Cloud(2day)
+- ### Cloud(0.5 day)
     - [ ] AWS & GCP
         - [ ] [AWS roadmap](https://roadmap.sh/aws)
         - [ ] [Cloud SQL for PostgreSQL documentation ](https://cloud.google.com/sql/docs/postgres/)
@@ -53,20 +52,16 @@ I choose Python and C to be my preferred interview language.
         - [ ] [BlueNote](https://www.quanxiaoha.com/column/10351.html)
     - [ ] Jenkins
         - [ ] [Blog](https://www.quanxiaoha.com/column/10190.html)
-
-
-## Final Review
-
-    This section will have shorter videos that you can watch pretty quickly to review most of the important concepts.
-    It's nice if you want a refresher often.
-
-- [ ] Series of 2-3 minutes short subject videos (23 videos)
-    - [Videos](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] Series of 2-5 minutes short subject videos - Michael Sambol (48 videos):
-    - [Videos](https://www.youtube.com/@MichaelSambol)
-    - [Code Examples](https://github.com/msambol/dsa)
-- [ ] [Sedgewick Videos - Algorithms I](https://www.coursera.org/learn/algorithms-part1)
-- [ ] [Sedgewick Videos - Algorithms II](https://www.coursera.org/learn/algorithms-part2)
+         
+- ### DevOps(2 days)
+   - [ ] [DevOps roadmap](https://roadmap.sh/devops)
+   - [ ] [Log Archive Tool](https://roadmap.sh/projects/log-archive-tool)
+   - [ ] [Configuration Management](https://roadmap.sh/projects/configuration-management)
+   - [ ] [Node.js Service Deployment](https://roadmap.sh/projects/nodejs-service-deployment)
+ 
+- ### Misc(0.5 days)
+   - [ ] [Writing my blog](https://blog.suliwei.foo/)
+   - [ ] [Update my article on Medium](https://medium.com/)
 
 
 ## Interview Process & General Interview Prep
