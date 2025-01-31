@@ -8,11 +8,9 @@ This is the learning list that I follow to when preparing interview for ChinaSof
 
 To be successful in this role, you should meet the following requirements:
 - Should have 8+ years of Production Support experience in Distributed technologies such as GCP Postgres/Rabit MQ/Cassendra/GCP Infra component in cloud technology.
-- Should have experience in supporting operational large-scale enterprise data solutions and applications using one or more of GCP data and analytics services and/or tech stack in combination with 3rd paties - Compute Engine, Cloud DataProc, Cloud
+- Should have experience in supporting operational large-scale enterprise data solutions and applications using one or more of GCP data and analytics services and/or tech stack in combination with 3rd paties.
 - Should have experience with Open-source technologies and tools such as Github, Pyspark, Jenkins, Ansible.
 - Should have experience in Service Management activities such as Incident Management, Change Management and Problem Management.
-- Should have very good communication skills and be able to communicate with business and IT stakeholders effectively and efficiently.
-- Should be able to work independently in a cross-location and cross-cultural team.
 - Candidates with distributed tech stack working experience will be preferred.
 - Knowledge on Unix, Shell Scripting and PL/SQL will be an added adventage.
 
@@ -28,7 +26,7 @@ I choose Python and C to be my preferred interview language.
 
 ## Projects & Works
 
-- ### Linux
+- ### Linux(2days)
     - [x] LFS:
         - [x] [LFS Official Document](https://linuxfromscratch.org/lfs/view/stable/)
         - [ ] [Build a LinuxFromScratch System](https://www.youtube.com/watch?v=IXA0GNTLf_Q&list=PLHh55M_Kq4OAPznDEcgnkQsbjgvG-QFBR)
@@ -39,27 +37,22 @@ I choose Python and C to be my preferred interview language.
         - [ ] [How Does Linux Boot Process Work? ](https://www.youtube.com/watch?v=XpFsMB6FoOs)
         - [ ] [A Beginner’s Guide to Linux Kernel Development (LFD103)](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
          
-- ### SQL
+- ### SQL(2day)
     - [ ] SQL roadmap:
         - [ ] [SQL roadmap](https://roadmap.sh/sql)
         - [ ] [PostgreSQL](https://roadmap.sh/postgresql-dba)
     - [ ] Build one:
         - [ ] [Build your own SQLite](https://app.codecrafters.io/courses/sqlite/overview)
-        - [ ] [Build your own Redis](https://app.codecrafters.io/courses/redis/overview)
         - [ ] [Recipe App Using Node.js & PostgreSQL](https://www.youtube.com/watch?v=AFiqctkoVJ4&list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW)
          
-- ### Cloud
+- ### Cloud(2day)
     - [ ] AWS & GCP
         - [ ] [AWS roadmap](https://roadmap.sh/aws)
         - [ ] [Cloud SQL for PostgreSQL documentation ](https://cloud.google.com/sql/docs/postgres/)
-        - [ ] [Cloud Architect Professional Certificate](https://www.coursera.org/programs/sobma/professional-certificates/gcp-cloud-architect?authProvider=bancolombia)
     - [ ] RocketMQ
         - [ ] [BlueNote](https://www.quanxiaoha.com/column/10351.html)
     - [ ] Jenkins
         - [ ] [Blog](https://www.quanxiaoha.com/column/10190.html)
- 
-- ### Java
-    - [ ] [Bluenote](https://www.quanxiaoha.com/column/10247.html)
 
 
 ## Final Review
@@ -83,12 +76,6 @@ I choose Python and C to be my preferred interview language.
 - [x] How to Get a Job at the Big 4:
     - [x] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
     - [x] [How to Get a Job at the Big 4.1 (Follow-up video)](https://www.youtube.com/watch?v=6790FVXWBw8&feature=youtu.be)
-- [ ] Cracking The Coding Interview Set 1:
-    - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-- [ ] Cracking the Facebook Coding Interview:
-    - [ ] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
-    - [ ] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
      
 
 ## Be thinking of for when the interview comes
