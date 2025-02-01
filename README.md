@@ -29,7 +29,7 @@ I choose Python and C to be my preferred interview language.
     - [ ] Shell:
         - [ ] [Build your own Shell](https://app.codecrafters.io/courses/shell/overview)
     - [ ] Kernel:
-        - [ ] [How Does Linux Boot Process Work? ](https://www.youtube.com/watch?v=XpFsMB6FoOs)
+        - [x] [How Does Linux Boot Process Work? ](https://www.youtube.com/watch?v=XpFsMB6FoOs)
         - [ ] [A Beginner’s Guide to Linux Kernel Development (LFD103)](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
          
 - ### SQL
