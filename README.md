@@ -29,7 +29,7 @@ I choose Python and C to be my preferred interview language.
 - ### Linux(1 days)
     - [x] LFS:
         - [x] [LFS Official Document](https://linuxfromscratch.org/lfs/view/stable/)
-        - [ ] [Build a LinuxFromScratch System](https://www.youtube.com/watch?v=IXA0GNTLf_Q&list=PLHh55M_Kq4OAPznDEcgnkQsbjgvG-QFBR)
+        - [x] [Build a LinuxFromScratch System](https://www.youtube.com/watch?v=IXA0GNTLf_Q&list=PLHh55M_Kq4OAPznDEcgnkQsbjgvG-QFBR)
     - [ ] Shell:
         - [ ] [Build your own Shell](https://app.codecrafters.io/courses/shell/overview)
     - [ ] Kernel:
