@@ -26,7 +26,7 @@ I choose Python and C to be my preferred interview language.
 
 ## Projects & Works
 
-- ### Linux(1 days)
+- ### Linux
     - [x] LFS:
         - [x] [LFS Official Document](https://linuxfromscratch.org/lfs/view/stable/)
         - [x] [Build a LinuxFromScratch System](https://www.youtube.com/watch?v=IXA0GNTLf_Q&list=PLHh55M_Kq4OAPznDEcgnkQsbjgvG-QFBR)
@@ -36,7 +36,7 @@ I choose Python and C to be my preferred interview language.
         - [ ] [How Does Linux Boot Process Work? ](https://www.youtube.com/watch?v=XpFsMB6FoOs)
         - [ ] [A Beginner’s Guide to Linux Kernel Development (LFD103)](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
          
-- ### SQL(1 day)
+- ### SQL
     - [ ] SQL roadmap:
         - [ ] [SQL roadmap](https://roadmap.sh/sql)
         - [ ] [PostgreSQL](https://roadmap.sh/postgresql-dba)
@@ -44,7 +44,7 @@ I choose Python and C to be my preferred interview language.
         - [ ] [Build your own SQLite](https://app.codecrafters.io/courses/sqlite/overview)
         - [ ] [Recipe App Using Node.js & PostgreSQL](https://www.youtube.com/watch?v=AFiqctkoVJ4&list=PLillGF-RfqbaEmlPcX5e_ejaK7Y5MydkW)
          
-- ### Cloud(0.5 day)
+- ### Cloud
     - [ ] AWS & GCP
         - [ ] [AWS roadmap](https://roadmap.sh/aws)
         - [ ] [Cloud SQL for PostgreSQL documentation ](https://cloud.google.com/sql/docs/postgres/)
@@ -53,13 +53,13 @@ I choose Python and C to be my preferred interview language.
     - [ ] Jenkins
         - [ ] [Blog](https://www.quanxiaoha.com/column/10190.html)
          
-- ### DevOps(2 days)
+- ### DevOps
    - [ ] [DevOps roadmap](https://roadmap.sh/devops)
    - [ ] [Log Archive Tool](https://roadmap.sh/projects/log-archive-tool)
    - [ ] [Configuration Management](https://roadmap.sh/projects/configuration-management)
    - [ ] [Node.js Service Deployment](https://roadmap.sh/projects/nodejs-service-deployment)
  
-- ### Misc(0.5 days)
+- ### Misc
    - [ ] [Writing my blog](https://blog.suliwei.foo/)
    - [ ] [Update my article on Medium](https://medium.com/)
 
