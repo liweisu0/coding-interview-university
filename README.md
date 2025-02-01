@@ -20,10 +20,6 @@ Cloud(GCP), Linux, SQL, Java, Websphere
 
 I choose Python and C to be my preferred interview language.
 
-### Prepare Time
-
-1.31-2.5(6days)
-
 ## Projects & Works
 
 - ### Linux
