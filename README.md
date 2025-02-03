@@ -28,9 +28,9 @@ I choose Python and C to be my preferred interview language.
         - [x] [Build a LinuxFromScratch System](https://www.youtube.com/watch?v=IXA0GNTLf_Q&list=PLHh55M_Kq4OAPznDEcgnkQsbjgvG-QFBR)
     - [ ] Shell:
         - [ ] [Build your own Shell](https://app.codecrafters.io/courses/shell/overview)
-    - [ ] Kernel:
+    - [x] Kernel:
         - [x] [How Does Linux Boot Process Work? ](https://www.youtube.com/watch?v=XpFsMB6FoOs)
-        - [ ] [A Beginner’s Guide to Linux Kernel Development (LFD103)](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
+        - [x] [A Beginner’s Guide to Linux Kernel Development (LFD103)](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
          
 - ### SQL
     - [ ] SQL roadmap:
@@ -56,8 +56,7 @@ I choose Python and C to be my preferred interview language.
    - [ ] [Node.js Service Deployment](https://roadmap.sh/projects/nodejs-service-deployment)
  
 - ### Misc
-   - [ ] [Writing my blog](https://blog.suliwei.foo/)
-   - [ ] [Update my article on Medium](https://medium.com/)
+   - [x] [Writing my blog](https://blog.suliwei.foo/)
 
 
 ## Interview Process & General Interview Prep
