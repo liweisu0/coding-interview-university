@@ -77,7 +77,6 @@ Have a story, not just data, about something you accomplished.
 - What's you main content of your last job?
 - What's a tough problem you've solved?
 - Biggest challenges faced?
-- Best/worst designs seen?
 - Ideas for improving an existing product
 - How do you work best, as an individual and as part of a team?
 - Which of your skills or experiences would be assets in the role and why?
