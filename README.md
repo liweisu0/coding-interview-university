@@ -27,7 +27,7 @@ I choose Python and C to be my preferred interview language.
         - [x] [LFS Official Document](https://linuxfromscratch.org/lfs/view/stable/)
         - [x] [Build a LinuxFromScratch System](https://www.youtube.com/watch?v=IXA0GNTLf_Q&list=PLHh55M_Kq4OAPznDEcgnkQsbjgvG-QFBR)
     - [ ] Shell:
-        - [ ] [Build your own Shell](https://app.codecrafters.io/courses/shell/overview)
+        - [x] [Build your own Shell](https://app.codecrafters.io/courses/shell/overview)
     - [x] Kernel:
         - [x] [How Does Linux Boot Process Work? ](https://www.youtube.com/watch?v=XpFsMB6FoOs)
         - [x] [A Beginner’s Guide to Linux Kernel Development (LFD103)](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
@@ -50,7 +50,7 @@ I choose Python and C to be my preferred interview language.
         - [ ] [Blog](https://www.quanxiaoha.com/column/10190.html)
          
 - ### DevOps
-   - [ ] [DevOps roadmap](https://roadmap.sh/devops)
+   - [x] [DevOps roadmap](https://roadmap.sh/devops)
    - [ ] [Log Archive Tool](https://roadmap.sh/projects/log-archive-tool)
    - [ ] [Configuration Management](https://roadmap.sh/projects/configuration-management)
    - [ ] [Node.js Service Deployment](https://roadmap.sh/projects/nodejs-service-deployment)
