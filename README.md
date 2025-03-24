@@ -82,7 +82,6 @@ For a complete CS self-taught program, the resources for my study plan have been
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- [A Note About Video Resources](#a-note-about-video-resources)
 - [Choose a Programming Language](#choose-a-programming-language)
 - [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
 - [Interview Prep Books](#interview-prep-books)
@@ -268,16 +267,21 @@ Create a new branch so you can check items like this, just put an x in the brack
 
 **[⬆ back to top](#table-of-contents)**
 
-## A Note About Video Resources
+## Know the Target
 
-Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs.
-Sometimes the classes are not in session so you have to wait a couple of months, so you have no access.
+The job you want to apply is software engineer, in Tesla China.
 
-It would be great to replace the online course resources with free and always-available public sources,
-such as YouTube videos (preferably university lectures), so that you people can study these anytime,
-not just when a specific online course is in session.
+The requirements are below:
 
-**[⬆ back to top](#table-of-contents)**
+- Proficient in C and C++.
+- Excellent grasp of fundamental computer science concepts.
+- Experience writing and shipping customer-facing code.
+- Willingness to learn new technologies in any area of the stack: UI, Rendering, Core, Protocols, Server.
+- Experience using common design patterns in the software industry.
+-​ High standards for code quality, maintainability, and performance.
+-​ Experience building state-of-the-art user interfaces and/or acclaimed consumer-facing applications 
+
+And, the most important things are: C/C++, Algorithm, Projects.
 
 ## Choose a Programming Language
 
@@ -302,25 +306,14 @@ When I did the study plan, I used 2 languages for most of it: C and Python
 
 This is my preference. You do what you like, of course.
 
-You may not need it, but here are some sites for learning a new language:
-- [Exercism](https://exercism.org/tracks)
-- [Codewars](http://www.codewars.com)
-- [HackerEarth](https://www.hackerearth.com/for-developers/)
-- [Scaler Topics (Java, C++)](https://www.scaler.com/topics/)
-- [Programiz PRO Community Challenges)](https://programiz.pro/)
+You may not need it, but here is [Codewars](http://www.codewars.com)
 
 ### For your Coding Interview
 
-You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
+You can use a language you are comfortable in to do the coding part of the interview, but for Tesla, these are solid choices:
 
-- C++
-- Java
+- C/C++
 - Python
-
-You could also use these, but read around first. There may be caveats:
-
-- JavaScript
-- Ruby
 
 Here is an article I wrote about choosing a language for the interview:
 [Pick One Language for the Coding Interview](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/).
@@ -471,8 +464,7 @@ There are many resources for this, listed below. Keep going.
 
 ### 4. Focus
 
-There are a lot of distractions that can take up valuable time. Focus and concentration are hard. Turn on some music
-without lyrics and you'll be able to focus pretty well.
+There are a lot of distractions that can take up valuable time. Focus and concentration are hard. Keep it silence, and being in Zen.
 
 **[⬆ back to top](#table-of-contents)**
 
